@@ -6,6 +6,7 @@
 - Plotly Dash - Membuat Chart di Plotly Dash
 - Plotly Dash - Cara Membuat Format Layout pada Chart di Dash Plotly
 - Plotly Dash - Styling up the Text dalam Dash Plotly
+- Plotly Dash - Cara Mengefisiensi Code Nilai Parameter di Dash Plotly
 
 
 ## Plotly di Python
