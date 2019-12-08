@@ -11,6 +11,7 @@
 - Plotly Dash - Cara Membuat Chart Real Time dari DataFrame di Dash Plotly
 - Plotly Dash - Cara Membuat Sebuah Dropdown Selector Component di Dash Plotly
 - Plotly Dash - Cara Membuat Sebuah Dropdown Selector Component di Dash Plotly (Part 2)
+- Plotly Dash - Mengeksplorasi Variasi dari Properti Dash Dropdown
 
 
 ## Plotly di Python
