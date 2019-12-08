@@ -8,6 +8,8 @@
 - Plotly Dash - Styling up the Text dalam Dash Plotly
 - Plotly Dash - Cara Mengefisiensi Code Nilai Parameter di Dash Plotly
 - Plotly Dash - Cara Membuat Scatter Plot di Dash Plotly
+- Plotly Dash - Cara Membuat Chart Real Time dari DataFrame di Dash Plotly
+- Plotly Dash - Cara Membuat Sebuah Dropdown Selector Component di Dash Plotly
 
 
 ## Plotly di Python
