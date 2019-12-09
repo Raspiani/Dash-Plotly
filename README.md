@@ -15,6 +15,9 @@
 - Plotly Dash - Cara Membuat Slider di Dash Plotly
 - Plotly Dash - Cara Membuat Range Slider di Dash Plotly
 - Plotly Dash - Cara Membuat Text Input Box di Dash Plotly
+- Plotly Dash - Cara Membuat Text Area di Dash Plotly
+- Plotly Dash - Cara Membuat CheckBox di Dash Plotly
+- Plotly Dash - Cara Membuat Radio Button di Dash Plotly
 
 ## Plotly di Python
 - Plotly - Pie Chart
