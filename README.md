@@ -18,6 +18,10 @@
 - Plotly Dash - Cara Membuat Text Area di Dash Plotly
 - Plotly Dash - Cara Membuat CheckBox di Dash Plotly
 - Plotly Dash - Cara Membuat Radio Button di Dash Plotly
+- Plotly Dash - Cara Membuat Button di Dash Plotly
+- Plotly Dash - Cara Membuat Date Picker di Dash Plotly
+- Plotly Dash - Cara Membuat Date Range Picker di Dash Plotly
+- Plotly Dash - Cara Menggunakan Markdown dengan Dash Plotly
 
 ## Plotly di Python
 - Plotly - Pie Chart
